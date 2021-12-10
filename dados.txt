@@ -1,11 +1,13 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Victor F. Pereira
+-Profissão: Engenheiro de Qualidade
+-Cidade: Salto - SP
+-O que faz nas horas vaga: Ler e andar de bicicleta, conhecendo novos lugares e cidades
+-Feedback sobre o curso Qualidade de Software: Estou gostando muito do curso, as aulas são fácies de se entender,
+e o conteúdo tem me ajudado na meu dia-a-dia.
+-Feedback sobre a plataforma de estudo da EBAC: Gostei das alterações feitas na plataforma, ficou mais fácil
+de  acompanhar o progresso das aulas, mais organizado e fácil de procurar alguma aula já assistida.
 
 Obrigado!!!
 
